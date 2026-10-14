@@ -1,6 +1,6 @@
 ---
 name: "page-seo-review"
-description: "Human-judged SEO checklist for public pages (blog, product, documentation) based on Google Search Central docs. Use when auditing a page against Google Search guidance, when asked which Google guidance applies to a page, and for SEO how-to or what-if questions about public pages (titles, links, robots and noindex, redirects, sitemaps, images, multilingual, JavaScript, online shops), answered from the Google docs."
+description: "AI-judged SEO checklist for public pages (blog, product, documentation) based on Google Search Central docs. Use when auditing a page against Google Search guidance, when asked which Google guidance applies to a page, and for SEO how-to or what-if questions about public pages (titles, links, robots and noindex, redirects, sitemaps, images, multilingual, JavaScript, online shops), answered from the Google docs."
 ---
 
 # Page SEO Review

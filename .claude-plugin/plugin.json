@@ -2,7 +2,7 @@
   "name": "seo-page-structure-checklist",
   "displayName": "SEO Page Structure Checklist",
   "version": "0.2.11",
-  "description": "Developer checklist for building a website without structural SEO mistakes: HTML, links, robots and noindex, sitemaps, canonical, metadata, structured data (JSON-LD), and multilingual declarations, checked against the English Google Search Central docs with source URLs. Audit a page or build output, ask how-to questions, or plan a page before you build it. Unofficial; not affiliated with Google.",
+  "description": "Developer checklist for public-page SEO structure (HTML, links, robots and noindex, sitemaps, canonical, metadata, JSON-LD, multilingual declarations), checked against the English Google Search Central docs with source URLs. Unofficial; not affiliated with Google.",
   "author": {
     "name": "1abcdefggs"
   },

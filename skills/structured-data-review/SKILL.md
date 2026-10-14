@@ -1,6 +1,6 @@
 ---
 name: "structured-data-review"
-description: "Human-judged checklist for Google structured data on public pages (blog, product, docs). Use for any schema.org / JSON-LD / rich result / markup audit, for choosing which type fits a page, and for questions about whether or how to add markup (reviews and stars, products, prices, breadcrumbs, authors, video), answered from the Google docs."
+description: "AI-judged checklist for Google structured data on public pages (blog, product, docs). Use for any schema.org / JSON-LD / rich result / markup audit, for choosing which type fits a page, and for questions about whether or how to add markup (reviews and stars, products, prices, breadcrumbs, authors, video), answered from the Google docs."
 ---
 
 # Structured Data Review
