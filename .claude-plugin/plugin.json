@@ -6,8 +6,11 @@
   "author": {
     "name": "1abcdefggs"
   },
+  "icon": "./assets/icon.png",
   "homepage": "https://github.com/1abcdefggs/seo-page-structure-checklist",
   "repository": "https://github.com/1abcdefggs/seo-page-structure-checklist",
+  "documentationUrl": "https://github.com/1abcdefggs/seo-page-structure-checklist/blob/main/README.md",
+  "supportUrl": "https://github.com/1abcdefggs/seo-page-structure-checklist/issues",
   "privacyPolicyUrl": "https://github.com/1abcdefggs/seo-page-structure-checklist/blob/main/PRIVACY.md",
   "keywords": [
     "web-development",
