@@ -103,4 +103,4 @@ End with a short list of types you considered and excluded, with the reason, so 
 
 ## Attribution
 
-This checklist contains modifications based on work created and shared by Google and used according to terms described in the Creative Commons 4.0 Attribution License. Keep this notice when the checklist is redistributed.
+This checklist contains modifications based on work created and shared by Google and used according to terms described in the Creative Commons 4.0 Attribution License. Code samples are under the Apache 2.0 License. See https://developers.google.com/readme/policies. Keep this notice when the checklist is redistributed.
