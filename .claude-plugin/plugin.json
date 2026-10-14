@@ -1,13 +1,16 @@
 {
   "name": "seo-page-structure-checklist",
   "displayName": "SEO Page Structure Checklist",
-  "version": "0.2.14",
+  "version": "0.2.15",
   "description": "Developer checklist for public-page SEO structure (HTML, links, robots and noindex, sitemaps, canonical, metadata, JSON-LD, multilingual declarations), checked against the English Google Search Central docs with source URLs. Unofficial; not affiliated with Google.",
   "author": {
     "name": "1abcdefggs"
   },
+  "icon": "./assets/icon.png",
   "homepage": "https://github.com/1abcdefggs/seo-page-structure-checklist",
   "repository": "https://github.com/1abcdefggs/seo-page-structure-checklist",
+  "documentationUrl": "https://github.com/1abcdefggs/seo-page-structure-checklist/blob/main/README.md",
+  "supportUrl": "https://github.com/1abcdefggs/seo-page-structure-checklist/issues",
   "privacyPolicyUrl": "https://github.com/1abcdefggs/seo-page-structure-checklist/blob/main/PRIVACY.md",
   "keywords": [
     "web-development",
