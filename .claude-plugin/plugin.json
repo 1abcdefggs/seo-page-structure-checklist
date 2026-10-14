@@ -1,7 +1,7 @@
 {
   "name": "seo-page-structure-checklist",
   "displayName": "SEO Page Structure Checklist",
-  "version": "0.2.15",
+  "version": "0.2.16",
   "description": "Developer checklist for public-page SEO structure (HTML, links, robots and noindex, sitemaps, canonical, metadata, JSON-LD, multilingual declarations), checked against the English Google Search Central docs with source URLs. Unofficial; not affiliated with Google.",
   "author": {
     "name": "1abcdefggs"
