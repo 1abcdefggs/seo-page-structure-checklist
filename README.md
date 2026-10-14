@@ -107,7 +107,7 @@ The checklist reflects the documentation at the time of writing. Google may chan
 
 ## What it contains
 
-Two skills (instructions only). It has no hooks, MCP or LSP servers, monitors or `bin/` directory, so the plugin itself runs no code. The skills instruct Claude to fetch Google documentation pages and, when a shell is available, to read the raw page with `curl` (or PowerShell `Invoke-WebRequest` on Windows). Fetches are limited to `developers.google.com` and the page under audit. Those are Claude's own tool calls, which your permission rules still govern. To check, run `claude plugin details seo-page-structure-checklist`.
+Two skills (instructions only). It has no hooks, MCP or LSP servers, monitors or `bin/` directory, so the plugin itself runs no code. The skills instruct Claude to fetch Google documentation pages and, when a shell is available, to read the raw page with `curl` (or PowerShell `Invoke-WebRequest` on Windows). Fetches are limited to `developers.google.com` and the page under audit. Those are Claude's own tool calls, which your permission rules still govern. Fetched content is read as data and is never executed or piped into a shell. To check, run `claude plugin details seo-page-structure-checklist`.
 
 ## License and attribution
 
